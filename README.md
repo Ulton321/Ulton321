@@ -46,7 +46,7 @@ flowchart LR
     1 --> outside1["Profit" 📈]
     2 --> outside2["Cry" 😢]
 
-    click top1 "https://www.linkedin.com/in/connor-kaiser-6a335a316/" "LinkedIn"
+    click top1 "https://www.linkedin.com/in/son-sophak-otra-37011628b" "LinkedIn"
 
     style 1 stroke:#072ff7,stroke-width:5px
     style 2 stroke:#f70707,stroke-width:5px
