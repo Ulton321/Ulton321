@@ -14,10 +14,40 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ulton321&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulton321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ulton321&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ulton321&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+```mermaid
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Solution] --> bottom1[ Action 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem 🐛] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem 🐛] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "https://www.linkedin.com/in/connor-kaiser-6a335a316/" "LinkedIn"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
+```
