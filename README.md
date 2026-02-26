@@ -1,148 +1,119 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Ulton's+page+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=520&lines=Ulton321's+page+%3C3;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<!---
-Show profile views
+<!--
+Profile views badge (replace username if needed)
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pipi-bear&color=ffd3d9&style=for-the-badge">
-</p> <br>
+  <img src="https://komarev.com/ghpvc/?username=Ulton321&color=ffd3d9&style=for-the-badge" alt="profile views">
+</p>
+<br>
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
+  <!--
+  Replace this image path with your own.
+  Recommended: put an image at assets/profile_pic.jpg (or change the src).
+  -->
+  <img align="left" src="assets/profile_pic.jpg" width="300" alt="profile picture" />
 
-```
-pipi-bear@github
+```text
+Ulton321@github
 -------------------------
-🏫 NTU CSIE
-📜 Chinese Literature in undergrad, fell in love with math, CS in grad :3
-🌱 Working on Visible light communications and positioning
-💫 Languages: C, Python 
-✏️ Keen on crafting neat, beautiful LaTeX HW
-🏃‍♀️ Marathon / hiking / cycling
-🎵 Check my great musical taste below ჱ̒⸝⸝•̀֊•́⸝⸝)♡
+🏷️ About: I like Gaming
+🌱 Currently: Daily life is an epistemologically unstable tangle of half-known facts.
+💡 Interests: EVH
+🧰 Tech: Python, CUDA, Unity
+🏃 Hobbies: I like racing
+🎵 Fun: Counter Strike for life
 ```
 </p>
 
-<br>
+<br><br><br>
 
-<!---
-Show GitHub Activities
-
-[![pipi-bear's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pipi-bear&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/pipi-bear/github-readme-activity-graph)
+<!--
+Optional: GitHub activity graph (uncomment to enable)
 -->
-
-
-<!---
-Show spotify stats
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x">
-  <img 
-    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
-    alt="Data Card for Spotify"
-    width="350"
-    >
-  </a>
-</div>
--->
-
-<h2 align="center"> 🇭‌🇼‌ 🇷‌🇪‌🇵‌🇴‌🇸‌ 🇦‌🇹‌ 🇳‌🇹‌🇺‌ </h2>
+<!--
 <p align="center">
-  <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
+  <a href="https://github.com/Ulton321">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulton321&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9" alt="activity graph">
+  </a>
 </p>
-<table>
-  <tr>
-    <!-- CSIE -->
-    <td valign="top">
-      <h3>📘 𝗖𝗦𝗜𝗘</h3>
-      <ul>
-        <!-- Using bold-2 font on instafonts-->
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/pipi-bear/NTU-ML-2024">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟕𝟑𝟐: <a href="https://github.com/pipi-bear/NTU-CV-2024">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
-        <li>𝐂𝐒𝐈𝐄 𝟐𝟑𝟒𝟒: <a href="https://github.com/pipi-bear/NTU-DSDL-2025">𝐃𝐒𝐃𝐋 (𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲)</a></li>
-        <li>𝐂𝐒𝐈𝐄 𝟑𝟑𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OS-2025">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OA-2025">𝐎𝐀 (𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬)</a></li> 
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟓𝟒: <a href="https://github.com/pipi-bear/NTU-ACD-2025">𝐀𝐂𝐃 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐢𝐥𝐞𝐫 𝐃𝐞𝐬𝐢𝐠𝐧)</a></li> 
-        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟑𝟒: <a href="https://github.com/pipi-bear/NTU-Fintech-2025">𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐅𝐢𝐧𝐓𝐞𝐜𝐡</a></li> 
-      </ul>
-    </td>
-    <!-- EE -->
-    <td valign="top">
-      <h3>📗 𝗘𝗘</h3>
-      <ul>
-        <li>𝐄𝐄 𝟓𝟏𝟔𝟑: <a href="https://github.com/pipi-bear/NTU-ADSP-2025">𝐀𝐃𝐒𝐏 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐥 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
-        <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟑𝟎: <a href="https://github.com/pipi-bear/NTU-TFW-2025">𝐓𝐅𝐖 (𝐓𝐢𝐦𝐞-𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐖𝐚𝐯𝐞𝐥𝐞𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦)</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+-->
 
 
+<h2 align="center"> 🧰 Tech Stack </h2>
+
+<p align="center">
+  <!-- Replace/add badges as you like: https://shields.io/ -->
+  <img src="https://img.shields.io/badge/CUDA-white?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=f9e0ea" alt="CUDA badge"/>
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=f9e0ea" alt="Python badge"/>
+  <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=f9e0ea" alt="React badge"/>
+  <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=f9e0ea" alt="SQL badge"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=f9e0ea" alt="C++ badge"/>
+</p>
+
+---
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
+
 <div align="center">
-  <img src="assets/contact_pic.jpg" 
-    align="left" 
-    width = 300px 
-    height = auto>
+  <!-- Replace this image if you want -->
+  <img src="assets/contact_pic.jpg" align="left" width="300" height="auto" alt="contact picture">
 </div>
+
 <br>
 
 <p align="center">
-  𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 ૮๑•̀ㅁ•́ฅა
+  Feel free to reach out.
   <br>
-  𝙹𝚞𝚜𝚝 𝚙𝚘𝚔𝚎 𝚖𝚎 𝚊𝚐𝚊𝚒𝚗 𝚒𝚏 𝙸 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚛𝚎𝚙𝚕𝚢 ( ´ㅁ` ; )
-  <br>
-  <br>
+  (If I miss your message, please poke me again.)
+  <br><br>
   ❀˚✿˖°❀˖°✿˖❀˖°
   <br>
 </p>
 
 <p align="center">
-<a href="mailto:asymptote069@gmail.com">
-  <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
-</a>
-<a href="https://instagram.com/pipi._.bear" target="_blank">
-  <img src="https://img.shields.io/badge/%20pipi.__.bear-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
-</a>
-<a href="https://discord.com/users/488404373903245313" target="_blank">
-  <img src="https://img.shields.io/badge/pipibear-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord Badge"/>
-</a>
+  <!-- Replace with your real links (or remove any you don't want). -->
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord Badge"/>
+  </a>
 </p>
-</div>
+
 <br>
 
-<!---
-Show spotify stats
--->
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x">
-  <img 
-    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
-    alt="Data Card for Spotify"
-    width="320"
-    >
-  </a>
-</div>
+---
 
-<!---
-Generate top languages, for more info, see:
-https://github.com/anuraghazra/github-readme-stats
+<!--
+Optional: GitHub stats (uncomment to enable)
 -->
-<!-- <p align="center">
+<!--
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-bear&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ulton321&show_icons=true&hide_title=true&hide_rank=false&theme=default" alt="GitHub stats" />
   </a>
-</p> -->
-
-<!---
-waka-readme-stats
-https://github.com/anmol098/waka-readme-stats
-
-for configuration, set .github/workflows/waka-readme.yml
+</p>
 -->
 
-<!---
-Generate waka stats
+<!--
+Optional: Top languages (uncomment to enable)
+-->
+<!--
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulton321&layout=compact" alt="Top languages" />
+  </a>
+</p>
+-->
+
+<!--
+Optional: WakaTime section.
+If you use the waka-readme GitHub action, it will replace the section between the markers.
 -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2011%20mins-blue?style=flat)
@@ -181,4 +152,3 @@ research                 18 mins             ███████████�
 
 
  Last Updated on 26/02/2026 01:45:42 UTC
-<!--END_SECTION:waka-->
