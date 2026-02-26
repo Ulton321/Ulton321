@@ -58,7 +58,7 @@ Optional: GitHub activity graph (uncomment to enable)
 
 <div align="center">
   <!-- Replace this image if you want -->
-  <img src="assets/contact_pic.jpg" align="left" width="300" height="auto" alt="contact picture">
+  <img src="assets/11b47248bc32f7c976bdcdbc1519a630.png" align="left" width="300" height="auto" alt="contact picture">
 </div>
 
 <br>
