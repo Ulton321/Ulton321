@@ -13,7 +13,7 @@ Profile views badge (replace username if needed)
   Replace this image path with your own.
   Recommended: put an image at assets/profile_pic.jpg (or change the src).
   -->
-  <img align="left" src="assets/8fa3dbd60fa61164fff904fb1525aadd.jpg" width="300" alt="profile picture" />
+  <img align="left" src="assets/8fa3dbd60fa61164fff904fb1525aadd-Picsart-BackgroundRemover.jpg" width="300" alt="profile picture" />
 
 ```text
 Ulton321@github
