@@ -89,10 +89,10 @@ Optional: GitHub activity graph (uncomment to enable)
 
 ---
 
-<!---
-Show spotify stats
+
+
 <div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=cnl1wtyzeyb29mmw3y01pedl9">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9">
   <img 
     src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
     alt="Data Card for Spotify"
@@ -100,7 +100,8 @@ Show spotify stats
     >
   </a>
 </div>
--->
+
+
 
 <!--
 Optional: WakaTime section.
