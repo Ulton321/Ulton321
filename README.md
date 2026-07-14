@@ -110,37 +110,4 @@ If you use the waka-readme GitHub action, it will replace the section between th
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2011%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-🌆 Daytime                140 commits         █████████████░░░░░░░░░░░░   52.24 % 
-🌃 Evening                53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-🌙 Night                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Wednesday                52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Thursday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Friday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-LLVM                     15 mins             ██████████████████████░░░   86.46 % 
-C++                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-
-🐱‍💻 Projects: 
-research                 18 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 26/02/2026 01:45:42 UTC
